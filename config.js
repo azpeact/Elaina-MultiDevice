@@ -49,25 +49,25 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/rellz.fvnkyy' //Link Instagrammu
 global.sgh = 'https://github.com/rellzxd' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/IqFfoXcdh7UFyPoQTpKoQp'
+global.sgc = 'https://chat.whatsapp.com/EyYi7h3RoWTEyaX1lvrZK1'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '087833306677' //Nomor Danamu
-global.ppulsa = '087833306677' //Xl
+global.pdana = '085765680162' //Nomor Danamu
+global.ppulsa = '081536907492' //Xl
 global.psaweria = 'https://saweria.com/RellzFvnkyy' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285876138954' //Nomor Bot
-global.nomorown = '84352438984' //Nomor Owner
-global.namebot = 'Fvnkyy BOTz' //Nama Bot
-global.nameown = 'Rellz' // Nama Owner
+global.nomorbot = '6285765680162' //Nomor Bot
+global.nomorown = '6281536907492' //Nomor Owner
+global.namebot = 'Elaina BOTz' //Nama Bot
+global.nameown = 'Dian' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['84352438984', '❦ rellz 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6281536907492', '❦ D i a n🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,12 +99,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 FVNKYY BOTZ 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘FVNKYY BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'FVNKYY BOTZ'
+global.wm = '                「 Elaina BOTZ 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Elaina BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'Elaina BOTZ'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
-global.titlebot = 'By Rellz'
+global.titlebot = 'By Dian'
 global.author = global.wm
 global.logo = 'https://ibb.co/17RY7x9'
 
